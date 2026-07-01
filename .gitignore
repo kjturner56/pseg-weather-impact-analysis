@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Generated Output
+output/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment metadata
+.python-version
+
+# Jupyter checkpoints (if you ever use notebooks)
+.ipynb_checkpoints/

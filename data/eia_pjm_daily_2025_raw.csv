@@ -1,0 +1,1413 @@
+period,respondent,respondent-name,type,type-name,timezone,timezone-description,value,value-units
+2025-01-01,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2123147,megawatthours
+2025-01-01,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2167393,megawatthours
+2025-01-01,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2248981,megawatthours
+2025-01-01,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,125836,megawatthours
+2025-01-02,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2429622,megawatthours
+2025-01-02,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2380864,megawatthours
+2025-01-02,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2514956,megawatthours
+2025-01-02,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,85455,megawatthours
+2025-01-03,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2561472,megawatthours
+2025-01-03,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2486806,megawatthours
+2025-01-03,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2624020,megawatthours
+2025-01-03,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,62678,megawatthours
+2025-01-04,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2608075,megawatthours
+2025-01-04,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2527899,megawatthours
+2025-01-04,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2691863,megawatthours
+2025-01-04,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,83967,megawatthours
+2025-01-05,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2603022,megawatthours
+2025-01-05,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2534719,megawatthours
+2025-01-05,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2641665,megawatthours
+2025-01-05,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,38821,megawatthours
+2025-01-06,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2711147,megawatthours
+2025-01-06,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2663150,megawatthours
+2025-01-06,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2816033,megawatthours
+2025-01-06,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,104994,megawatthours
+2025-01-07,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2773721,megawatthours
+2025-01-07,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2716278,megawatthours
+2025-01-07,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2881355,megawatthours
+2025-01-07,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,107723,megawatthours
+2025-01-08,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2808958,megawatthours
+2025-01-08,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2767284,megawatthours
+2025-01-08,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2869667,megawatthours
+2025-01-08,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,60862,megawatthours
+2025-01-09,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2845051,megawatthours
+2025-01-09,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2775504,megawatthours
+2025-01-09,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2945887,megawatthours
+2025-01-09,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,100997,megawatthours
+2025-01-10,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2772867,megawatthours
+2025-01-10,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2744156,megawatthours
+2025-01-10,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2881873,megawatthours
+2025-01-10,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,109165,megawatthours
+2025-01-11,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2552241,megawatthours
+2025-01-11,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2538031,megawatthours
+2025-01-11,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2609850,megawatthours
+2025-01-11,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,57748,megawatthours
+2025-01-12,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2477150,megawatthours
+2025-01-12,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2464506,megawatthours
+2025-01-12,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2561825,megawatthours
+2025-01-12,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,84761,megawatthours
+2025-01-13,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2601115,megawatthours
+2025-01-13,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2577975,megawatthours
+2025-01-13,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2712159,megawatthours
+2025-01-13,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,111130,megawatthours
+2025-01-14,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2755724,megawatthours
+2025-01-14,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2766477,megawatthours
+2025-01-14,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2876057,megawatthours
+2025-01-14,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,120432,megawatthours
+2025-01-15,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2870586,megawatthours
+2025-01-15,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2832593,megawatthours
+2025-01-15,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2912220,megawatthours
+2025-01-15,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,41803,megawatthours
+2025-01-16,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2811861,megawatthours
+2025-01-16,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2745441,megawatthours
+2025-01-16,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2879589,megawatthours
+2025-01-16,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,67874,megawatthours
+2025-01-17,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2532000,megawatthours
+2025-01-17,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2564818,megawatthours
+2025-01-17,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2642513,megawatthours
+2025-01-17,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,110652,megawatthours
+2025-01-18,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2406611,megawatthours
+2025-01-18,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2323923,megawatthours
+2025-01-18,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2508037,megawatthours
+2025-01-18,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,101560,megawatthours
+2025-01-19,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2503360,megawatthours
+2025-01-19,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2445223,megawatthours
+2025-01-19,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2672406,megawatthours
+2025-01-19,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,169225,megawatthours
+2025-01-20,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2913765,megawatthours
+2025-01-20,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2936616,megawatthours
+2025-01-20,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3068950,megawatthours
+2025-01-20,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,155409,megawatthours
+2025-01-21,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,3173821,megawatthours
+2025-01-21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,3025910,megawatthours
+2025-01-21,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3358037,megawatthours
+2025-01-21,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,184440,megawatthours
+2025-01-22,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,3177791,megawatthours
+2025-01-22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,3027902,megawatthours
+2025-01-22,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3324234,megawatthours
+2025-01-22,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,146623,megawatthours
+2025-01-23,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,3016433,megawatthours
+2025-01-23,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2871676,megawatthours
+2025-01-23,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3157917,megawatthours
+2025-01-23,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,141693,megawatthours
+2025-01-24,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2843832,megawatthours
+2025-01-24,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2854499,megawatthours
+2025-01-24,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2952253,megawatthours
+2025-01-24,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,108647,megawatthours
+2025-01-25,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2656729,megawatthours
+2025-01-25,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2663662,megawatthours
+2025-01-25,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2712917,megawatthours
+2025-01-25,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,56328,megawatthours
+2025-01-26,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2433349,megawatthours
+2025-01-26,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2486823,megawatthours
+2025-01-26,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2492553,megawatthours
+2025-01-26,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,59343,megawatthours
+2025-01-27,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2545906,megawatthours
+2025-01-27,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2561691,megawatthours
+2025-01-27,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2588115,megawatthours
+2025-01-27,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,42358,megawatthours
+2025-01-28,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2438694,megawatthours
+2025-01-28,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2563012,megawatthours
+2025-01-28,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2520270,megawatthours
+2025-01-28,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,81756,megawatthours
+2025-01-29,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2354071,megawatthours
+2025-01-29,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2426810,megawatthours
+2025-01-29,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2468715,megawatthours
+2025-01-29,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,114819,megawatthours
+2025-01-30,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2395294,megawatthours
+2025-01-30,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2417677,megawatthours
+2025-01-30,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2466221,megawatthours
+2025-01-30,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,71060,megawatthours
+2025-01-31,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2299201,megawatthours
+2025-01-31,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2265484,megawatthours
+2025-01-31,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2378202,megawatthours
+2025-01-31,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,79128,megawatthours
+2025-02-01,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2227042,megawatthours
+2025-02-01,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2231467,megawatthours
+2025-02-01,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2303195,megawatthours
+2025-02-01,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,76238,megawatthours
+2025-02-02,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2399463,megawatthours
+2025-02-02,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2307177,megawatthours
+2025-02-02,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2476557,megawatthours
+2025-02-02,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,77176,megawatthours
+2025-02-03,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2330685,megawatthours
+2025-02-03,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2262216,megawatthours
+2025-02-03,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2399542,megawatthours
+2025-02-03,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,68955,megawatthours
+2025-02-04,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2271786,megawatthours
+2025-02-04,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2290909,megawatthours
+2025-02-04,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2370680,megawatthours
+2025-02-04,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,98999,megawatthours
+2025-02-05,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2485245,megawatthours
+2025-02-05,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2519457,megawatthours
+2025-02-05,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2540771,megawatthours
+2025-02-05,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,55691,megawatthours
+2025-02-06,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2468104,megawatthours
+2025-02-06,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2387820,megawatthours
+2025-02-06,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2512121,megawatthours
+2025-02-06,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,44150,megawatthours
+2025-02-07,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2345794,megawatthours
+2025-02-07,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2355859,megawatthours
+2025-02-07,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2442304,megawatthours
+2025-02-07,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,96671,megawatthours
+2025-02-08,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2402446,megawatthours
+2025-02-08,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2362142,megawatthours
+2025-02-08,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2428525,megawatthours
+2025-02-08,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,26208,megawatthours
+2025-02-09,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2314573,megawatthours
+2025-02-09,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2271361,megawatthours
+2025-02-09,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2368116,megawatthours
+2025-02-09,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,53709,megawatthours
+2025-02-10,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2451772,megawatthours
+2025-02-10,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2461041,megawatthours
+2025-02-10,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2511718,megawatthours
+2025-02-10,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,60109,megawatthours
+2025-02-11,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2628043,megawatthours
+2025-02-11,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2569663,megawatthours
+2025-02-11,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2689638,megawatthours
+2025-02-11,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,61805,megawatthours
+2025-02-12,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2616219,megawatthours
+2025-02-12,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2565924,megawatthours
+2025-02-12,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2708207,megawatthours
+2025-02-12,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,92196,megawatthours
+2025-02-13,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2510468,megawatthours
+2025-02-13,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2426971,megawatthours
+2025-02-13,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2634926,megawatthours
+2025-02-13,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,124634,megawatthours
+2025-02-14,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2547335,megawatthours
+2025-02-14,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2510205,megawatthours
+2025-02-14,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2657470,megawatthours
+2025-02-14,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,110296,megawatthours
+2025-02-15,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2410876,megawatthours
+2025-02-15,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2340699,megawatthours
+2025-02-15,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2494942,megawatthours
+2025-02-15,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,84270,megawatthours
+2025-02-16,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2306996,megawatthours
+2025-02-16,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2177688,megawatthours
+2025-02-16,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2450195,megawatthours
+2025-02-16,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,143257,megawatthours
+2025-02-17,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2604524,megawatthours
+2025-02-17,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2582122,megawatthours
+2025-02-17,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2769192,megawatthours
+2025-02-17,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,164668,megawatthours
+2025-02-18,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2775123,megawatthours
+2025-02-18,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2789905,megawatthours
+2025-02-18,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2949222,megawatthours
+2025-02-18,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,174163,megawatthours
+2025-02-19,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2915460,megawatthours
+2025-02-19,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2865388,megawatthours
+2025-02-19,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3062634,megawatthours
+2025-02-19,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,147334,megawatthours
+2025-02-20,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2904628,megawatthours
+2025-02-20,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2852861,megawatthours
+2025-02-20,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3076813,megawatthours
+2025-02-20,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,172395,megawatthours
+2025-02-21,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2762182,megawatthours
+2025-02-21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2741041,megawatthours
+2025-02-21,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2963640,megawatthours
+2025-02-21,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,201687,megawatthours
+2025-02-22,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2517917,megawatthours
+2025-02-22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2497378,megawatthours
+2025-02-22,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2636217,megawatthours
+2025-02-22,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,118502,megawatthours
+2025-02-23,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2306257,megawatthours
+2025-02-23,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2343909,megawatthours
+2025-02-23,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2414102,megawatthours
+2025-02-23,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,107976,megawatthours
+2025-02-24,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2320147,megawatthours
+2025-02-24,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2319112,megawatthours
+2025-02-24,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2399220,megawatthours
+2025-02-24,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,79243,megawatthours
+2025-02-25,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2198939,megawatthours
+2025-02-25,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2202889,megawatthours
+2025-02-25,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2291908,megawatthours
+2025-02-25,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,93114,megawatthours
+2025-02-26,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2192810,megawatthours
+2025-02-26,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2139676,megawatthours
+2025-02-26,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2251104,megawatthours
+2025-02-26,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,58447,megawatthours
+2025-02-27,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2179113,megawatthours
+2025-02-27,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2103507,megawatthours
+2025-02-27,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2248553,megawatthours
+2025-02-27,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,69596,megawatthours
+2025-02-28,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2156169,megawatthours
+2025-02-28,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2116329,megawatthours
+2025-02-28,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2211063,megawatthours
+2025-02-28,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,55047,megawatthours
+2025-03-01,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2110785,megawatthours
+2025-03-01,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2130196,megawatthours
+2025-03-01,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2206107,megawatthours
+2025-03-01,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,95343,megawatthours
+2025-03-02,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2360071,megawatthours
+2025-03-02,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2354630,megawatthours
+2025-03-02,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2402257,megawatthours
+2025-03-02,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,42187,megawatthours
+2025-03-03,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2450966,megawatthours
+2025-03-03,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2457583,megawatthours
+2025-03-03,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2529065,megawatthours
+2025-03-03,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,78100,megawatthours
+2025-03-04,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2239506,megawatthours
+2025-03-04,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2260109,megawatthours
+2025-03-04,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2352268,megawatthours
+2025-03-04,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,112760,megawatthours
+2025-03-05,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2151458,megawatthours
+2025-03-05,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2111673,megawatthours
+2025-03-05,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2269269,megawatthours
+2025-03-05,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,117835,megawatthours
+2025-03-06,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2327328,megawatthours
+2025-03-06,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2227271,megawatthours
+2025-03-06,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2434042,megawatthours
+2025-03-06,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,106708,megawatthours
+2025-03-07,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2312377,megawatthours
+2025-03-07,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2276971,megawatthours
+2025-03-07,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2363679,megawatthours
+2025-03-07,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,51318,megawatthours
+2025-03-08,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2114844,megawatthours
+2025-03-08,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2136744,megawatthours
+2025-03-08,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2191789,megawatthours
+2025-03-08,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,76944,megawatthours
+2025-03-09,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1988500,megawatthours
+2025-03-09,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1966092,megawatthours
+2025-03-09,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2070385,megawatthours
+2025-03-09,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,81886,megawatthours
+2025-03-10,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2110013,megawatthours
+2025-03-10,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2070051,megawatthours
+2025-03-10,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2202222,megawatthours
+2025-03-10,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,92212,megawatthours
+2025-03-11,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2059456,megawatthours
+2025-03-11,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2017072,megawatthours
+2025-03-11,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2177089,megawatthours
+2025-03-11,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,117631,megawatthours
+2025-03-12,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2023142,megawatthours
+2025-03-12,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2002479,megawatthours
+2025-03-12,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2187897,megawatthours
+2025-03-12,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,164755,megawatthours
+2025-03-13,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2071881,megawatthours
+2025-03-13,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2024130,megawatthours
+2025-03-13,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2141877,megawatthours
+2025-03-13,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,69996,megawatthours
+2025-03-14,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2061081,megawatthours
+2025-03-14,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1995777,megawatthours
+2025-03-14,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2144113,megawatthours
+2025-03-14,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,83028,megawatthours
+2025-03-15,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1921766,megawatthours
+2025-03-15,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1838741,megawatthours
+2025-03-15,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2018822,megawatthours
+2025-03-15,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,97055,megawatthours
+2025-03-16,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1878085,megawatthours
+2025-03-16,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1838945,megawatthours
+2025-03-16,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1981411,megawatthours
+2025-03-16,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,103323,megawatthours
+2025-03-17,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2075907,megawatthours
+2025-03-17,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2044663,megawatthours
+2025-03-17,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2163920,megawatthours
+2025-03-17,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,88011,megawatthours
+2025-03-18,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2107491,megawatthours
+2025-03-18,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2053618,megawatthours
+2025-03-18,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2224486,megawatthours
+2025-03-18,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,116997,megawatthours
+2025-03-19,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2022675,megawatthours
+2025-03-19,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1974466,megawatthours
+2025-03-19,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2138772,megawatthours
+2025-03-19,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,116095,megawatthours
+2025-03-20,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2036855,megawatthours
+2025-03-20,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2008705,megawatthours
+2025-03-20,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2177801,megawatthours
+2025-03-20,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,140947,megawatthours
+2025-03-21,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2070735,megawatthours
+2025-03-21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2031166,megawatthours
+2025-03-21,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2186861,megawatthours
+2025-03-21,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,116111,megawatthours
+2025-03-22,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1943508,megawatthours
+2025-03-22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1926711,megawatthours
+2025-03-22,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2065077,megawatthours
+2025-03-22,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,121568,megawatthours
+2025-03-23,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1975634,megawatthours
+2025-03-23,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1945653,megawatthours
+2025-03-23,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2074653,megawatthours
+2025-03-23,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,99022,megawatthours
+2025-03-24,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2106705,megawatthours
+2025-03-24,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2077379,megawatthours
+2025-03-24,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2205749,megawatthours
+2025-03-24,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,99044,megawatthours
+2025-03-25,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2056408,megawatthours
+2025-03-25,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2066380,megawatthours
+2025-03-25,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2155006,megawatthours
+2025-03-25,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,98595,megawatthours
+2025-03-26,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2121989,megawatthours
+2025-03-26,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2112721,megawatthours
+2025-03-26,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2204998,megawatthours
+2025-03-26,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,83010,megawatthours
+2025-03-27,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2119140,megawatthours
+2025-03-27,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2117847,megawatthours
+2025-03-27,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2199565,megawatthours
+2025-03-27,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,80422,megawatthours
+2025-03-28,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2009743,megawatthours
+2025-03-28,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1989813,megawatthours
+2025-03-28,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2111342,megawatthours
+2025-03-28,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,101604,megawatthours
+2025-03-29,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1835868,megawatthours
+2025-03-29,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1844291,megawatthours
+2025-03-29,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1982144,megawatthours
+2025-03-29,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,146273,megawatthours
+2025-03-30,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1824487,megawatthours
+2025-03-30,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1799637,megawatthours
+2025-03-30,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1965871,megawatthours
+2025-03-30,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,141387,megawatthours
+2025-03-31,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2005278,megawatthours
+2025-03-31,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1987360,megawatthours
+2025-03-31,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2124991,megawatthours
+2025-03-31,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,119709,megawatthours
+2025-04-01,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1991443,megawatthours
+2025-04-01,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2033767,megawatthours
+2025-04-01,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2091413,megawatthours
+2025-04-01,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,99968,megawatthours
+2025-04-02,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2078581,megawatthours
+2025-04-02,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2022665,megawatthours
+2025-04-02,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2230364,megawatthours
+2025-04-02,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,151784,megawatthours
+2025-04-03,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2018568,megawatthours
+2025-04-03,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2023169,megawatthours
+2025-04-03,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2169421,megawatthours
+2025-04-03,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,150852,megawatthours
+2025-04-04,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1989560,megawatthours
+2025-04-04,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1941177,megawatthours
+2025-04-04,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2179461,megawatthours
+2025-04-04,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,189897,megawatthours
+2025-04-05,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1892491,megawatthours
+2025-04-05,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1822164,megawatthours
+2025-04-05,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2018366,megawatthours
+2025-04-05,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,125875,megawatthours
+2025-04-06,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1909061,megawatthours
+2025-04-06,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1865649,megawatthours
+2025-04-06,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1997254,megawatthours
+2025-04-06,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,88198,megawatthours
+2025-04-07,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2125097,megawatthours
+2025-04-07,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2081983,megawatthours
+2025-04-07,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2179288,megawatthours
+2025-04-07,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,54192,megawatthours
+2025-04-08,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2169265,megawatthours
+2025-04-08,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2191957,megawatthours
+2025-04-08,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2168579,megawatthours
+2025-04-08,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,-688,megawatthours
+2025-04-09,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2182722,megawatthours
+2025-04-09,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2177518,megawatthours
+2025-04-09,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2211731,megawatthours
+2025-04-09,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,29007,megawatthours
+2025-04-10,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2118948,megawatthours
+2025-04-10,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2098521,megawatthours
+2025-04-10,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2136744,megawatthours
+2025-04-10,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,17798,megawatthours
+2025-04-11,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2142915,megawatthours
+2025-04-11,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2076346,megawatthours
+2025-04-11,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2144251,megawatthours
+2025-04-11,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,1335,megawatthours
+2025-04-12,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2018611,megawatthours
+2025-04-12,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1965936,megawatthours
+2025-04-12,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2004302,megawatthours
+2025-04-12,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,-14307,megawatthours
+2025-04-13,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1895585,megawatthours
+2025-04-13,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1878679,megawatthours
+2025-04-13,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1928799,megawatthours
+2025-04-13,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,33213,megawatthours
+2025-04-14,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1977394,megawatthours
+2025-04-14,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1960218,megawatthours
+2025-04-14,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1998585,megawatthours
+2025-04-14,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,21191,megawatthours
+2025-04-15,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1969038,megawatthours
+2025-04-15,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1960075,megawatthours
+2025-04-15,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1976730,megawatthours
+2025-04-15,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,7692,megawatthours
+2025-04-16,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2013551,megawatthours
+2025-04-16,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2004033,megawatthours
+2025-04-16,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2017700,megawatthours
+2025-04-16,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,4149,megawatthours
+2025-04-17,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1988774,megawatthours
+2025-04-17,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1997485,megawatthours
+2025-04-17,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2026164,megawatthours
+2025-04-17,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,37391,megawatthours
+2025-04-18,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1908963,megawatthours
+2025-04-18,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1938153,megawatthours
+2025-04-18,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2004530,megawatthours
+2025-04-18,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,95567,megawatthours
+2025-04-19,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1860314,megawatthours
+2025-04-19,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1866940,megawatthours
+2025-04-19,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1913124,megawatthours
+2025-04-19,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,52808,megawatthours
+2025-04-20,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1784171,megawatthours
+2025-04-20,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1807591,megawatthours
+2025-04-20,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1873052,megawatthours
+2025-04-20,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,88876,megawatthours
+2025-04-21,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1944658,megawatthours
+2025-04-21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1938994,megawatthours
+2025-04-21,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2018898,megawatthours
+2025-04-21,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,74235,megawatthours
+2025-04-22,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1972644,megawatthours
+2025-04-22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1960511,megawatthours
+2025-04-22,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1980216,megawatthours
+2025-04-22,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,7572,megawatthours
+2025-04-23,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1966554,megawatthours
+2025-04-23,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1942673,megawatthours
+2025-04-23,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2006595,megawatthours
+2025-04-23,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,40041,megawatthours
+2025-04-24,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1989232,megawatthours
+2025-04-24,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1961297,megawatthours
+2025-04-24,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1995481,megawatthours
+2025-04-24,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,6251,megawatthours
+2025-04-25,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1971678,megawatthours
+2025-04-25,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1927140,megawatthours
+2025-04-25,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1982702,megawatthours
+2025-04-25,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,11020,megawatthours
+2025-04-26,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1855708,megawatthours
+2025-04-26,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1777237,megawatthours
+2025-04-26,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1896224,megawatthours
+2025-04-26,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,40512,megawatthours
+2025-04-27,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1742725,megawatthours
+2025-04-27,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1733437,megawatthours
+2025-04-27,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1798094,megawatthours
+2025-04-27,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,55368,megawatthours
+2025-04-28,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1942538,megawatthours
+2025-04-28,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1890624,megawatthours
+2025-04-28,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1994953,megawatthours
+2025-04-28,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,52416,megawatthours
+2025-04-29,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2023761,megawatthours
+2025-04-29,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2013028,megawatthours
+2025-04-29,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2077287,megawatthours
+2025-04-29,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,53523,megawatthours
+2025-04-30,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2038838,megawatthours
+2025-04-30,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2020307,megawatthours
+2025-04-30,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2083161,megawatthours
+2025-04-30,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,44316,megawatthours
+2025-05-01,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2054526,megawatthours
+2025-05-01,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2024215,megawatthours
+2025-05-01,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2133015,megawatthours
+2025-05-01,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,78488,megawatthours
+2025-05-02,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2096756,megawatthours
+2025-05-02,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2074432,megawatthours
+2025-05-02,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2136586,megawatthours
+2025-05-02,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,39825,megawatthours
+2025-05-03,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1955815,megawatthours
+2025-05-03,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1947739,megawatthours
+2025-05-03,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2016104,megawatthours
+2025-05-03,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,60292,megawatthours
+2025-05-04,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1886444,megawatthours
+2025-05-04,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1824554,megawatthours
+2025-05-04,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1968204,megawatthours
+2025-05-04,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,81762,megawatthours
+2025-05-05,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2002800,megawatthours
+2025-05-05,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1946936,megawatthours
+2025-05-05,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2058841,megawatthours
+2025-05-05,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,56028,megawatthours
+2025-05-06,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1987501,megawatthours
+2025-05-06,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1948739,megawatthours
+2025-05-06,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2055826,megawatthours
+2025-05-06,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,68303,megawatthours
+2025-05-07,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1983142,megawatthours
+2025-05-07,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1948639,megawatthours
+2025-05-07,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2096415,megawatthours
+2025-05-07,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,113276,megawatthours
+2025-05-08,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2022863,megawatthours
+2025-05-08,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1953599,megawatthours
+2025-05-08,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2128444,megawatthours
+2025-05-08,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,105580,megawatthours
+2025-05-09,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1939256,megawatthours
+2025-05-09,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1898400,megawatthours
+2025-05-09,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2074333,megawatthours
+2025-05-09,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,135074,megawatthours
+2025-05-10,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1782480,megawatthours
+2025-05-10,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1752353,megawatthours
+2025-05-10,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1902422,megawatthours
+2025-05-10,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,119944,megawatthours
+2025-05-11,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1808585,megawatthours
+2025-05-11,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1751254,megawatthours
+2025-05-11,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1883564,megawatthours
+2025-05-11,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,74978,megawatthours
+2025-05-12,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2027993,megawatthours
+2025-05-12,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1970505,megawatthours
+2025-05-12,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2087580,megawatthours
+2025-05-12,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,59586,megawatthours
+2025-05-13,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2085162,megawatthours
+2025-05-13,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2014081,megawatthours
+2025-05-13,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2145255,megawatthours
+2025-05-13,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,60098,megawatthours
+2025-05-14,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2102181,megawatthours
+2025-05-14,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2025388,megawatthours
+2025-05-14,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2151341,megawatthours
+2025-05-14,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,49160,megawatthours
+2025-05-15,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2243645,megawatthours
+2025-05-15,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2150472,megawatthours
+2025-05-15,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2287024,megawatthours
+2025-05-15,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,25305,megawatthours
+2025-05-16,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2295679,megawatthours
+2025-05-16,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2280382,megawatthours
+2025-05-16,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2329746,megawatthours
+2025-05-16,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,18559,megawatthours
+2025-05-17,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2039348,megawatthours
+2025-05-17,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2096830,megawatthours
+2025-05-17,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2105381,megawatthours
+2025-05-17,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,7430,megawatthours
+2025-05-18,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1898130,megawatthours
+2025-05-18,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1922818,megawatthours
+2025-05-18,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1969104,megawatthours
+2025-05-18,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,3269,megawatthours
+2025-05-19,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2007943,megawatthours
+2025-05-19,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2000517,megawatthours
+2025-05-19,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2063810,megawatthours
+2025-05-19,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,9519,megawatthours
+2025-05-20,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1973496,megawatthours
+2025-05-20,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1965015,megawatthours
+2025-05-20,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2070442,megawatthours
+2025-05-20,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,15028,megawatthours
+2025-05-21,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1996475,megawatthours
+2025-05-21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1968426,megawatthours
+2025-05-21,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2074745,megawatthours
+2025-05-21,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,33262,megawatthours
+2025-05-22,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1981700,megawatthours
+2025-05-22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1950704,megawatthours
+2025-05-22,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2066460,megawatthours
+2025-05-22,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,29446,megawatthours
+2025-05-23,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1914770,megawatthours
+2025-05-23,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1894905,megawatthours
+2025-05-23,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2050051,megawatthours
+2025-05-23,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,34616,megawatthours
+2025-05-24,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1771455,megawatthours
+2025-05-24,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1757546,megawatthours
+2025-05-24,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1929269,megawatthours
+2025-05-24,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,21025,megawatthours
+2025-05-25,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1734323,megawatthours
+2025-05-25,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1719887,megawatthours
+2025-05-25,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1927052,megawatthours
+2025-05-25,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,30430,megawatthours
+2025-05-26,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1771090,megawatthours
+2025-05-26,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1723102,megawatthours
+2025-05-26,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1941113,megawatthours
+2025-05-26,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,35378,megawatthours
+2025-05-27,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1948546,megawatthours
+2025-05-27,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1874315,megawatthours
+2025-05-27,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2083518,megawatthours
+2025-05-27,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,41644,megawatthours
+2025-05-28,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1989045,megawatthours
+2025-05-28,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1937191,megawatthours
+2025-05-28,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2077604,megawatthours
+2025-05-28,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,38824,megawatthours
+2025-05-29,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2022966,megawatthours
+2025-05-29,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1987332,megawatthours
+2025-05-29,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2137322,megawatthours
+2025-05-29,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,33012,megawatthours
+2025-05-30,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2047566,megawatthours
+2025-05-30,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1959622,megawatthours
+2025-05-30,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2130315,megawatthours
+2025-05-30,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,29618,megawatthours
+2025-05-31,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1839232,megawatthours
+2025-05-31,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1790067,megawatthours
+2025-05-31,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2002529,megawatthours
+2025-05-31,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,31362,megawatthours
+2025-06-01,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1774571,megawatthours
+2025-06-01,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1743140,megawatthours
+2025-06-01,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1957578,megawatthours
+2025-06-01,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,35082,megawatthours
+2025-06-02,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1988291,megawatthours
+2025-06-02,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1948765,megawatthours
+2025-06-02,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2116661,megawatthours
+2025-06-02,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,37274,megawatthours
+2025-06-03,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2172605,megawatthours
+2025-06-03,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2126454,megawatthours
+2025-06-03,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2328190,megawatthours
+2025-06-03,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,30248,megawatthours
+2025-06-04,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2340240,megawatthours
+2025-06-04,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2287245,megawatthours
+2025-06-04,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2485159,megawatthours
+2025-06-04,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,34135,megawatthours
+2025-06-05,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2400749,megawatthours
+2025-06-05,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2331486,megawatthours
+2025-06-05,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2547119,megawatthours
+2025-06-05,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,37157,megawatthours
+2025-06-06,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2388555,megawatthours
+2025-06-06,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2295395,megawatthours
+2025-06-06,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2531902,megawatthours
+2025-06-06,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,32743,megawatthours
+2025-06-07,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2207637,megawatthours
+2025-06-07,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2077602,megawatthours
+2025-06-07,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2319569,megawatthours
+2025-06-07,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,20520,megawatthours
+2025-06-08,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2096106,megawatthours
+2025-06-08,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1994115,megawatthours
+2025-06-08,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2168159,megawatthours
+2025-06-08,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,6270,megawatthours
+2025-06-09,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2232394,megawatthours
+2025-06-09,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2141534,megawatthours
+2025-06-09,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2318346,megawatthours
+2025-06-09,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,21218,megawatthours
+2025-06-10,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2282666,megawatthours
+2025-06-10,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2184510,megawatthours
+2025-06-10,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2389161,megawatthours
+2025-06-10,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,29928,megawatthours
+2025-06-11,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2387508,megawatthours
+2025-06-11,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2355599,megawatthours
+2025-06-11,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2489237,megawatthours
+2025-06-11,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,22203,megawatthours
+2025-06-12,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2542000,megawatthours
+2025-06-12,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2532428,megawatthours
+2025-06-12,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2625089,megawatthours
+2025-06-12,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,24765,megawatthours
+2025-06-13,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2450256,megawatthours
+2025-06-13,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2428207,megawatthours
+2025-06-13,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2532441,megawatthours
+2025-06-13,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,23883,megawatthours
+2025-06-14,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2199192,megawatthours
+2025-06-14,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2114620,megawatthours
+2025-06-14,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2297193,megawatthours
+2025-06-14,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,13212,megawatthours
+2025-06-15,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2083105,megawatthours
+2025-06-15,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2006554,megawatthours
+2025-06-15,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2207048,megawatthours
+2025-06-15,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,17657,megawatthours
+2025-06-16,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2266036,megawatthours
+2025-06-16,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2191953,megawatthours
+2025-06-16,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2396111,megawatthours
+2025-06-16,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,29956,megawatthours
+2025-06-17,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2441966,megawatthours
+2025-06-17,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2304406,megawatthours
+2025-06-17,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2556504,megawatthours
+2025-06-17,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,30591,megawatthours
+2025-06-18,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2603434,megawatthours
+2025-06-18,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2497628,megawatthours
+2025-06-18,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2740634,megawatthours
+2025-06-18,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,23925,megawatthours
+2025-06-19,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2563056,megawatthours
+2025-06-19,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2514083,megawatthours
+2025-06-19,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2670067,megawatthours
+2025-06-19,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,22276,megawatthours
+2025-06-20,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2456207,megawatthours
+2025-06-20,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2427645,megawatthours
+2025-06-20,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2615539,megawatthours
+2025-06-20,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,27168,megawatthours
+2025-06-21,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2613504,megawatthours
+2025-06-21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2536942,megawatthours
+2025-06-21,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2742633,megawatthours
+2025-06-21,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,20396,megawatthours
+2025-06-22,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2804264,megawatthours
+2025-06-22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2746442,megawatthours
+2025-06-22,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2936296,megawatthours
+2025-06-22,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,21934,megawatthours
+2025-06-23,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,3215948,megawatthours
+2025-06-23,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,3074714,megawatthours
+2025-06-23,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3295217,megawatthours
+2025-06-23,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,23098,megawatthours
+2025-06-24,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,3267277,megawatthours
+2025-06-24,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,3115855,megawatthours
+2025-06-24,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3368361,megawatthours
+2025-06-24,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,21955,megawatthours
+2025-06-25,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,3171879,megawatthours
+2025-06-25,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,3070095,megawatthours
+2025-06-25,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3264068,megawatthours
+2025-06-25,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,28841,megawatthours
+2025-06-26,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,3011498,megawatthours
+2025-06-26,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2953445,megawatthours
+2025-06-26,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3100971,megawatthours
+2025-06-26,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,26809,megawatthours
+2025-06-27,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2645211,megawatthours
+2025-06-27,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2673202,megawatthours
+2025-06-27,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2814492,megawatthours
+2025-06-27,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,34605,megawatthours
+2025-06-28,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2564719,megawatthours
+2025-06-28,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2518020,megawatthours
+2025-06-28,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2672813,megawatthours
+2025-06-28,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,30066,megawatthours
+2025-06-29,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2713489,megawatthours
+2025-06-29,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2611451,megawatthours
+2025-06-29,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2841787,megawatthours
+2025-06-29,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,33873,megawatthours
+2025-06-30,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2883552,megawatthours
+2025-06-30,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2847800,megawatthours
+2025-06-30,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3001494,megawatthours
+2025-06-30,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,34381,megawatthours
+2025-07-01,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2814637,megawatthours
+2025-07-01,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2804244,megawatthours
+2025-07-01,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2931323,megawatthours
+2025-07-01,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,33185,megawatthours
+2025-07-02,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2694076,megawatthours
+2025-07-02,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2679919,megawatthours
+2025-07-02,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2817330,megawatthours
+2025-07-02,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,37553,megawatthours
+2025-07-03,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2743047,megawatthours
+2025-07-03,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2744419,megawatthours
+2025-07-03,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2849770,megawatthours
+2025-07-03,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,26795,megawatthours
+2025-07-04,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2471770,megawatthours
+2025-07-04,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2554360,megawatthours
+2025-07-04,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2572298,megawatthours
+2025-07-04,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,13070,megawatthours
+2025-07-05,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2549271,megawatthours
+2025-07-05,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2610056,megawatthours
+2025-07-05,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2671953,megawatthours
+2025-07-05,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,9934,megawatthours
+2025-07-06,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2649756,megawatthours
+2025-07-06,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2581333,megawatthours
+2025-07-06,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2797965,megawatthours
+2025-07-06,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,15310,megawatthours
+2025-07-07,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2874215,megawatthours
+2025-07-07,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2744134,megawatthours
+2025-07-07,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2984902,megawatthours
+2025-07-07,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,33752,megawatthours
+2025-07-08,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2892460,megawatthours
+2025-07-08,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2782288,megawatthours
+2025-07-08,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3047170,megawatthours
+2025-07-08,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,34687,megawatthours
+2025-07-09,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2812572,megawatthours
+2025-07-09,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2723060,megawatthours
+2025-07-09,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2956415,megawatthours
+2025-07-09,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,39243,megawatthours
+2025-07-10,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2732427,megawatthours
+2025-07-10,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2611763,megawatthours
+2025-07-10,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2873119,megawatthours
+2025-07-10,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,37388,megawatthours
+2025-07-11,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2858008,megawatthours
+2025-07-11,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2704646,megawatthours
+2025-07-11,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2945153,megawatthours
+2025-07-11,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,34548,megawatthours
+2025-07-12,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2759899,megawatthours
+2025-07-12,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2655381,megawatthours
+2025-07-12,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2833909,megawatthours
+2025-07-12,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,8406,megawatthours
+2025-07-13,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2667217,megawatthours
+2025-07-13,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2553695,megawatthours
+2025-07-13,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2746611,megawatthours
+2025-07-13,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,8747,megawatthours
+2025-07-14,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2839021,megawatthours
+2025-07-14,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2734595,megawatthours
+2025-07-14,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2964166,megawatthours
+2025-07-14,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,28474,megawatthours
+2025-07-15,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2865166,megawatthours
+2025-07-15,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2824286,megawatthours
+2025-07-15,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2981067,megawatthours
+2025-07-15,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,32743,megawatthours
+2025-07-16,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2955804,megawatthours
+2025-07-16,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2863325,megawatthours
+2025-07-16,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3076017,megawatthours
+2025-07-16,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,40237,megawatthours
+2025-07-17,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2918810,megawatthours
+2025-07-17,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2871040,megawatthours
+2025-07-17,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2995278,megawatthours
+2025-07-17,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,36352,megawatthours
+2025-07-18,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2694467,megawatthours
+2025-07-18,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2666372,megawatthours
+2025-07-18,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2813131,megawatthours
+2025-07-18,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,25096,megawatthours
+2025-07-19,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2550151,megawatthours
+2025-07-19,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2545446,megawatthours
+2025-07-19,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2653535,megawatthours
+2025-07-19,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,18408,megawatthours
+2025-07-20,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2598148,megawatthours
+2025-07-20,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2580757,megawatthours
+2025-07-20,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2723118,megawatthours
+2025-07-20,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,28489,megawatthours
+2025-07-21,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2676950,megawatthours
+2025-07-21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2611149,megawatthours
+2025-07-21,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2837824,megawatthours
+2025-07-21,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,31028,megawatthours
+2025-07-22,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2599320,megawatthours
+2025-07-22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2551928,megawatthours
+2025-07-22,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2802253,megawatthours
+2025-07-22,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,33321,megawatthours
+2025-07-23,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2732835,megawatthours
+2025-07-23,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2702204,megawatthours
+2025-07-23,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2925728,megawatthours
+2025-07-23,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,45656,megawatthours
+2025-07-24,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2911781,megawatthours
+2025-07-24,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2871184,megawatthours
+2025-07-24,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3098919,megawatthours
+2025-07-24,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,38822,megawatthours
+2025-07-25,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2996805,megawatthours
+2025-07-25,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2912657,megawatthours
+2025-07-25,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3133618,megawatthours
+2025-07-25,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,40869,megawatthours
+2025-07-26,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2789738,megawatthours
+2025-07-26,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2781537,megawatthours
+2025-07-26,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2942013,megawatthours
+2025-07-26,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,12621,megawatthours
+2025-07-27,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2753133,megawatthours
+2025-07-27,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2692686,megawatthours
+2025-07-27,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2956875,megawatthours
+2025-07-27,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,13948,megawatthours
+2025-07-28,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,3026748,megawatthours
+2025-07-28,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2980090,megawatthours
+2025-07-28,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3199930,megawatthours
+2025-07-28,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,34040,megawatthours
+2025-07-29,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,3101050,megawatthours
+2025-07-29,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,3088097,megawatthours
+2025-07-29,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3249260,megawatthours
+2025-07-29,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,28529,megawatthours
+2025-07-30,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,3105921,megawatthours
+2025-07-30,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,3074224,megawatthours
+2025-07-30,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3205020,megawatthours
+2025-07-30,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,23441,megawatthours
+2025-07-31,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2795976,megawatthours
+2025-07-31,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2791423,megawatthours
+2025-07-31,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2904226,megawatthours
+2025-07-31,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,18775,megawatthours
+2025-08-01,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2322750,megawatthours
+2025-08-01,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2370117,megawatthours
+2025-08-01,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2482969,megawatthours
+2025-08-01,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,38015,megawatthours
+2025-08-02,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2136844,megawatthours
+2025-08-02,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2139482,megawatthours
+2025-08-02,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2291234,megawatthours
+2025-08-02,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,32243,megawatthours
+2025-08-03,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2144322,megawatthours
+2025-08-03,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2182471,megawatthours
+2025-08-03,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2299509,megawatthours
+2025-08-03,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,39341,megawatthours
+2025-08-04,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2435629,megawatthours
+2025-08-04,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2448599,megawatthours
+2025-08-04,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2569461,megawatthours
+2025-08-04,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,41413,megawatthours
+2025-08-05,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2516201,megawatthours
+2025-08-05,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2529926,megawatthours
+2025-08-05,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2649663,megawatthours
+2025-08-05,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,30248,megawatthours
+2025-08-06,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2531525,megawatthours
+2025-08-06,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2516337,megawatthours
+2025-08-06,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2677350,megawatthours
+2025-08-06,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,20140,megawatthours
+2025-08-07,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2583194,megawatthours
+2025-08-07,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2528351,megawatthours
+2025-08-07,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2730349,megawatthours
+2025-08-07,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,38591,megawatthours
+2025-08-08,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2598414,megawatthours
+2025-08-08,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2523053,megawatthours
+2025-08-08,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2716866,megawatthours
+2025-08-08,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,28925,megawatthours
+2025-08-09,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2481297,megawatthours
+2025-08-09,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2432033,megawatthours
+2025-08-09,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2650147,megawatthours
+2025-08-09,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,17142,megawatthours
+2025-08-10,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2509029,megawatthours
+2025-08-10,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2451371,megawatthours
+2025-08-10,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2686636,megawatthours
+2025-08-10,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,36944,megawatthours
+2025-08-11,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2782134,megawatthours
+2025-08-11,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2682157,megawatthours
+2025-08-11,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2973164,megawatthours
+2025-08-11,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,48358,megawatthours
+2025-08-12,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2900387,megawatthours
+2025-08-12,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2757348,megawatthours
+2025-08-12,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3049643,megawatthours
+2025-08-12,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,34845,megawatthours
+2025-08-13,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2848095,megawatthours
+2025-08-13,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2757087,megawatthours
+2025-08-13,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2994103,megawatthours
+2025-08-13,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,28222,megawatthours
+2025-08-14,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2825919,megawatthours
+2025-08-14,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2724866,megawatthours
+2025-08-14,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2932896,megawatthours
+2025-08-14,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,37322,megawatthours
+2025-08-15,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2851037,megawatthours
+2025-08-15,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2768730,megawatthours
+2025-08-15,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2995940,megawatthours
+2025-08-15,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,26206,megawatthours
+2025-08-16,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2766357,megawatthours
+2025-08-16,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2695489,megawatthours
+2025-08-16,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2891646,megawatthours
+2025-08-16,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,18544,megawatthours
+2025-08-17,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2700450,megawatthours
+2025-08-17,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2688884,megawatthours
+2025-08-17,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2859608,megawatthours
+2025-08-17,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,24063,megawatthours
+2025-08-18,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2597442,megawatthours
+2025-08-18,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2574529,megawatthours
+2025-08-18,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2791417,megawatthours
+2025-08-18,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,48275,megawatthours
+2025-08-19,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2511390,megawatthours
+2025-08-19,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2487903,megawatthours
+2025-08-19,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2723859,megawatthours
+2025-08-19,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,52135,megawatthours
+2025-08-20,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2457949,megawatthours
+2025-08-20,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2451873,megawatthours
+2025-08-20,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2626036,megawatthours
+2025-08-20,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,41796,megawatthours
+2025-08-21,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2319481,megawatthours
+2025-08-21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2346179,megawatthours
+2025-08-21,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2479808,megawatthours
+2025-08-21,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,38106,megawatthours
+2025-08-22,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2356331,megawatthours
+2025-08-22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2308757,megawatthours
+2025-08-22,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2518827,megawatthours
+2025-08-22,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,39029,megawatthours
+2025-08-23,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2282663,megawatthours
+2025-08-23,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2284933,megawatthours
+2025-08-23,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2396095,megawatthours
+2025-08-23,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,27622,megawatthours
+2025-08-24,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2247159,megawatthours
+2025-08-24,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2224510,megawatthours
+2025-08-24,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2360836,megawatthours
+2025-08-24,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,24673,megawatthours
+2025-08-25,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2312326,megawatthours
+2025-08-25,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2321339,megawatthours
+2025-08-25,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2451027,megawatthours
+2025-08-25,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,38478,megawatthours
+2025-08-26,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2177753,megawatthours
+2025-08-26,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2186114,megawatthours
+2025-08-26,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2382750,megawatthours
+2025-08-26,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,47153,megawatthours
+2025-08-27,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2116583,megawatthours
+2025-08-27,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2127843,megawatthours
+2025-08-27,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2296058,megawatthours
+2025-08-27,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,56463,megawatthours
+2025-08-28,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2128604,megawatthours
+2025-08-28,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2140370,megawatthours
+2025-08-28,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2329299,megawatthours
+2025-08-28,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,48455,megawatthours
+2025-08-29,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2112361,megawatthours
+2025-08-29,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2101433,megawatthours
+2025-08-29,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2298966,megawatthours
+2025-08-29,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,46004,megawatthours
+2025-08-30,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1910555,megawatthours
+2025-08-30,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1922504,megawatthours
+2025-08-30,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2160185,megawatthours
+2025-08-30,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,24705,megawatthours
+2025-08-31,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1882888,megawatthours
+2025-08-31,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1905086,megawatthours
+2025-08-31,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2133673,megawatthours
+2025-08-31,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,31310,megawatthours
+2025-09-01,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1971350,megawatthours
+2025-09-01,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1948828,megawatthours
+2025-09-01,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2197024,megawatthours
+2025-09-01,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,32058,megawatthours
+2025-09-02,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2158059,megawatthours
+2025-09-02,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2130751,megawatthours
+2025-09-02,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2342175,megawatthours
+2025-09-02,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,50150,megawatthours
+2025-09-03,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2206000,megawatthours
+2025-09-03,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2186371,megawatthours
+2025-09-03,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2353207,megawatthours
+2025-09-03,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,46589,megawatthours
+2025-09-04,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2203444,megawatthours
+2025-09-04,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2174318,megawatthours
+2025-09-04,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2379087,megawatthours
+2025-09-04,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,42681,megawatthours
+2025-09-05,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2291887,megawatthours
+2025-09-05,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2236801,megawatthours
+2025-09-05,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2422494,megawatthours
+2025-09-05,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,41256,megawatthours
+2025-09-06,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2170960,megawatthours
+2025-09-06,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2089474,megawatthours
+2025-09-06,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2308412,megawatthours
+2025-09-06,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,39644,megawatthours
+2025-09-07,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1933207,megawatthours
+2025-09-07,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1900427,megawatthours
+2025-09-07,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2076386,megawatthours
+2025-09-07,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,24272,megawatthours
+2025-09-08,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2016842,megawatthours
+2025-09-08,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2004977,megawatthours
+2025-09-08,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2148976,megawatthours
+2025-09-08,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,40872,megawatthours
+2025-09-09,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2046711,megawatthours
+2025-09-09,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2023963,megawatthours
+2025-09-09,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2197610,megawatthours
+2025-09-09,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,30739,megawatthours
+2025-09-10,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2122107,megawatthours
+2025-09-10,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2061674,megawatthours
+2025-09-10,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2300970,megawatthours
+2025-09-10,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,32324,megawatthours
+2025-09-11,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2207588,megawatthours
+2025-09-11,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2127751,megawatthours
+2025-09-11,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2323696,megawatthours
+2025-09-11,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,37522,megawatthours
+2025-09-12,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2201817,megawatthours
+2025-09-12,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2163810,megawatthours
+2025-09-12,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2325491,megawatthours
+2025-09-12,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,39124,megawatthours
+2025-09-13,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2098398,megawatthours
+2025-09-13,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2066333,megawatthours
+2025-09-13,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2257639,megawatthours
+2025-09-13,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,27970,megawatthours
+2025-09-14,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2170780,megawatthours
+2025-09-14,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2122653,megawatthours
+2025-09-14,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2330600,megawatthours
+2025-09-14,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,28972,megawatthours
+2025-09-15,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2317177,megawatthours
+2025-09-15,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2307983,megawatthours
+2025-09-15,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2458868,megawatthours
+2025-09-15,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,34288,megawatthours
+2025-09-16,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2234597,megawatthours
+2025-09-16,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2235629,megawatthours
+2025-09-16,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2382662,megawatthours
+2025-09-16,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,33027,megawatthours
+2025-09-17,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2224076,megawatthours
+2025-09-17,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2199466,megawatthours
+2025-09-17,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2327328,megawatthours
+2025-09-17,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,28989,megawatthours
+2025-09-18,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2327317,megawatthours
+2025-09-18,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2277227,megawatthours
+2025-09-18,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2405119,megawatthours
+2025-09-18,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,25001,megawatthours
+2025-09-19,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2376275,megawatthours
+2025-09-19,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2333199,megawatthours
+2025-09-19,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2440826,megawatthours
+2025-09-19,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,18086,megawatthours
+2025-09-20,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2159467,megawatthours
+2025-09-20,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2121658,megawatthours
+2025-09-20,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2245961,megawatthours
+2025-09-20,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,6069,megawatthours
+2025-09-21,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2102912,megawatthours
+2025-09-21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2046689,megawatthours
+2025-09-21,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2199850,megawatthours
+2025-09-21,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,18912,megawatthours
+2025-09-22,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2243355,megawatthours
+2025-09-22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2167555,megawatthours
+2025-09-22,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2322818,megawatthours
+2025-09-22,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,20376,megawatthours
+2025-09-23,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2332087,megawatthours
+2025-09-23,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2241005,megawatthours
+2025-09-23,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2388212,megawatthours
+2025-09-23,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,9113,megawatthours
+2025-09-24,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2321400,megawatthours
+2025-09-24,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2282786,megawatthours
+2025-09-24,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2396007,megawatthours
+2025-09-24,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,9408,megawatthours
+2025-09-25,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2352532,megawatthours
+2025-09-25,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2252282,megawatthours
+2025-09-25,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2427845,megawatthours
+2025-09-25,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,21154,megawatthours
+2025-09-26,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2314457,megawatthours
+2025-09-26,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2219616,megawatthours
+2025-09-26,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2333770,megawatthours
+2025-09-26,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,21648,megawatthours
+2025-09-27,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2138604,megawatthours
+2025-09-27,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2052898,megawatthours
+2025-09-27,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2191025,megawatthours
+2025-09-27,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,2421,megawatthours
+2025-09-28,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2166308,megawatthours
+2025-09-28,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2074661,megawatthours
+2025-09-28,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2216251,megawatthours
+2025-09-28,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,8336,megawatthours
+2025-09-29,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2278914,megawatthours
+2025-09-29,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2307181,megawatthours
+2025-09-29,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2321330,megawatthours
+2025-09-29,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,20243,megawatthours
+2025-09-30,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2245739,megawatthours
+2025-09-30,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2247871,megawatthours
+2025-09-30,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2305836,megawatthours
+2025-09-30,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,24414,megawatthours
+2025-10-01,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2104494,megawatthours
+2025-10-01,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2129566,megawatthours
+2025-10-01,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2176436,megawatthours
+2025-10-01,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,32427,megawatthours
+2025-10-02,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2046007,megawatthours
+2025-10-02,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2082436,megawatthours
+2025-10-02,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2149402,megawatthours
+2025-10-02,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,35373,megawatthours
+2025-10-03,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2081957,megawatthours
+2025-10-03,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2076611,megawatthours
+2025-10-03,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2139146,megawatthours
+2025-10-03,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,40679,megawatthours
+2025-10-04,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2028045,megawatthours
+2025-10-04,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1992564,megawatthours
+2025-10-04,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2072118,megawatthours
+2025-10-04,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,29571,megawatthours
+2025-10-05,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2031071,megawatthours
+2025-10-05,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2007358,megawatthours
+2025-10-05,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2096762,megawatthours
+2025-10-05,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,33310,megawatthours
+2025-10-06,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2208357,megawatthours
+2025-10-06,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2191179,megawatthours
+2025-10-06,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2280809,megawatthours
+2025-10-06,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,29873,megawatthours
+2025-10-07,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2190642,megawatthours
+2025-10-07,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2163364,megawatthours
+2025-10-07,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2285682,megawatthours
+2025-10-07,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,35288,megawatthours
+2025-10-08,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2067450,megawatthours
+2025-10-08,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2073233,megawatthours
+2025-10-08,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2116596,megawatthours
+2025-10-08,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,23868,megawatthours
+2025-10-09,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1935499,megawatthours
+2025-10-09,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1989278,megawatthours
+2025-10-09,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1969162,megawatthours
+2025-10-09,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,23154,megawatthours
+2025-10-10,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1943243,megawatthours
+2025-10-10,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1933885,megawatthours
+2025-10-10,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1976107,megawatthours
+2025-10-10,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,24122,megawatthours
+2025-10-11,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1847414,megawatthours
+2025-10-11,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1801474,megawatthours
+2025-10-11,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1863065,megawatthours
+2025-10-11,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,19405,megawatthours
+2025-10-12,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1842835,megawatthours
+2025-10-12,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1791184,megawatthours
+2025-10-12,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1827858,megawatthours
+2025-10-12,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,19978,megawatthours
+2025-10-13,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1991894,megawatthours
+2025-10-13,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1970944,megawatthours
+2025-10-13,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2011069,megawatthours
+2025-10-13,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,-5124,megawatthours
+2025-10-14,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2005237,megawatthours
+2025-10-14,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1976615,megawatthours
+2025-10-14,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2002081,megawatthours
+2025-10-14,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,22683,megawatthours
+2025-10-15,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1976840,megawatthours
+2025-10-15,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1962610,megawatthours
+2025-10-15,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2004887,megawatthours
+2025-10-15,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,16570,megawatthours
+2025-10-16,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1964968,megawatthours
+2025-10-16,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1972040,megawatthours
+2025-10-16,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1977583,megawatthours
+2025-10-16,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,22498,megawatthours
+2025-10-17,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1968207,megawatthours
+2025-10-17,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1956412,megawatthours
+2025-10-17,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2005529,megawatthours
+2025-10-17,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,19917,megawatthours
+2025-10-18,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1884760,megawatthours
+2025-10-18,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1851768,megawatthours
+2025-10-18,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1902798,megawatthours
+2025-10-18,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,22037,megawatthours
+2025-10-19,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1848346,megawatthours
+2025-10-19,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1823368,megawatthours
+2025-10-19,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1871196,megawatthours
+2025-10-19,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,17711,megawatthours
+2025-10-20,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1958234,megawatthours
+2025-10-20,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1959218,megawatthours
+2025-10-20,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1972812,megawatthours
+2025-10-20,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,26664,megawatthours
+2025-10-21,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2007422,megawatthours
+2025-10-21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1968938,megawatthours
+2025-10-21,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2001433,megawatthours
+2025-10-21,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,16461,megawatthours
+2025-10-22,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2011929,megawatthours
+2025-10-22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1993828,megawatthours
+2025-10-22,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2016410,megawatthours
+2025-10-22,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,15019,megawatthours
+2025-10-23,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2039750,megawatthours
+2025-10-23,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2010072,megawatthours
+2025-10-23,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2043167,megawatthours
+2025-10-23,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,12941,megawatthours
+2025-10-24,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2053444,megawatthours
+2025-10-24,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2007231,megawatthours
+2025-10-24,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2024097,megawatthours
+2025-10-24,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,13540,megawatthours
+2025-10-25,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1945062,megawatthours
+2025-10-25,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1900730,megawatthours
+2025-10-25,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1911586,megawatthours
+2025-10-25,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,4920,megawatthours
+2025-10-26,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1897963,megawatthours
+2025-10-26,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1865609,megawatthours
+2025-10-26,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1875942,megawatthours
+2025-10-26,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,11149,megawatthours
+2025-10-27,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2057110,megawatthours
+2025-10-27,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2031364,megawatthours
+2025-10-27,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2040277,megawatthours
+2025-10-27,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,14822,megawatthours
+2025-10-28,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2096257,megawatthours
+2025-10-28,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2046785,megawatthours
+2025-10-28,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2074811,megawatthours
+2025-10-28,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,13075,megawatthours
+2025-10-29,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2098959,megawatthours
+2025-10-29,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2063356,megawatthours
+2025-10-29,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2098610,megawatthours
+2025-10-29,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,6583,megawatthours
+2025-10-30,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2082852,megawatthours
+2025-10-30,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2029934,megawatthours
+2025-10-30,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2082286,megawatthours
+2025-10-30,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,17841,megawatthours
+2025-10-31,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2031199,megawatthours
+2025-10-31,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2008279,megawatthours
+2025-10-31,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2010991,megawatthours
+2025-10-31,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,11831,megawatthours
+2025-11-01,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1927578,megawatthours
+2025-11-01,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1898991,megawatthours
+2025-11-01,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1915885,megawatthours
+2025-11-01,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,2911,megawatthours
+2025-11-02,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1998809,megawatthours
+2025-11-02,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1915547,megawatthours
+2025-11-03,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2065163,megawatthours
+2025-11-03,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2063656,megawatthours
+2025-11-03,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2039379,megawatthours
+2025-11-03,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,11109,megawatthours
+2025-11-04,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2076699,megawatthours
+2025-11-04,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2050940,megawatthours
+2025-11-04,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2047061,megawatthours
+2025-11-04,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,12744,megawatthours
+2025-11-05,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2064531,megawatthours
+2025-11-05,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2030790,megawatthours
+2025-11-05,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2060411,megawatthours
+2025-11-05,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,21507,megawatthours
+2025-11-06,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2061389,megawatthours
+2025-11-06,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2050390,megawatthours
+2025-11-06,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2058509,megawatthours
+2025-11-07,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2104321,megawatthours
+2025-11-07,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2040826,megawatthours
+2025-11-07,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2042124,megawatthours
+2025-11-08,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1898490,megawatthours
+2025-11-08,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1887343,megawatthours
+2025-11-08,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2058896,megawatthours
+2025-11-09,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1978195,megawatthours
+2025-11-09,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1916054,megawatthours
+2025-11-09,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1913606,megawatthours
+2025-11-10,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2269426,megawatthours
+2025-11-10,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2264284,megawatthours
+2025-11-10,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1998701,megawatthours
+2025-11-11,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2427821,megawatthours
+2025-11-11,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2423180,megawatthours
+2025-11-11,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2336912,megawatthours
+2025-11-12,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2263990,megawatthours
+2025-11-12,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2299774,megawatthours
+2025-11-12,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2491608,megawatthours
+2025-11-13,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2193118,megawatthours
+2025-11-13,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2184302,megawatthours
+2025-11-13,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2307506,megawatthours
+2025-11-14,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2169997,megawatthours
+2025-11-14,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2123138,megawatthours
+2025-11-14,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2211301,megawatthours
+2025-11-15,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1962440,megawatthours
+2025-11-15,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1922358,megawatthours
+2025-11-15,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2179356,megawatthours
+2025-11-16,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,1937261,megawatthours
+2025-11-16,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1922103,megawatthours
+2025-11-16,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,1995203,megawatthours
+2025-11-17,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2242687,megawatthours
+2025-11-17,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2209797,megawatthours
+2025-11-17,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2023720,megawatthours
+2025-11-18,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2314702,megawatthours
+2025-11-18,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2276054,megawatthours
+2025-11-18,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2238387,megawatthours
+2025-11-19,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2238794,megawatthours
+2025-11-19,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2222337,megawatthours
+2025-11-19,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2339296,megawatthours
+2025-11-20,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2239630,megawatthours
+2025-11-20,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2189264,megawatthours
+2025-11-20,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2254691,megawatthours
+2025-11-21,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2145928,megawatthours
+2025-11-21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2111678,megawatthours
+2025-11-21,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2239032,megawatthours
+2025-11-22,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2016673,megawatthours
+2025-11-22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1974075,megawatthours
+2025-11-22,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2144382,megawatthours
+2025-11-23,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2028341,megawatthours
+2025-11-23,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1987505,megawatthours
+2025-11-23,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2064650,megawatthours
+2025-11-24,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2199715,megawatthours
+2025-11-24,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2176511,megawatthours
+2025-11-24,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2096363,megawatthours
+2025-11-25,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2167801,megawatthours
+2025-11-25,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2143967,megawatthours
+2025-11-25,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2284720,megawatthours
+2025-11-26,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2152227,megawatthours
+2025-11-26,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2109275,megawatthours
+2025-11-26,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2275146,megawatthours
+2025-11-27,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2146568,megawatthours
+2025-11-27,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2194222,megawatthours
+2025-11-27,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2250321,megawatthours
+2025-11-28,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2288427,megawatthours
+2025-11-28,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2253605,megawatthours
+2025-11-28,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2255053,megawatthours
+2025-11-29,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2330431,megawatthours
+2025-11-29,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2317117,megawatthours
+2025-11-29,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2385439,megawatthours
+2025-11-30,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2314347,megawatthours
+2025-11-30,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2274391,megawatthours
+2025-11-30,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2410364,megawatthours
+2025-12-01,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2456948,megawatthours
+2025-12-01,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2464895,megawatthours
+2025-12-01,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2412954,megawatthours
+2025-12-02,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2574650,megawatthours
+2025-12-02,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2526716,megawatthours
+2025-12-02,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2587646,megawatthours
+2025-12-03,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2566777,megawatthours
+2025-12-03,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2553214,megawatthours
+2025-12-03,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2658502,megawatthours
+2025-12-04,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2628393,megawatthours
+2025-12-04,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2602201,megawatthours
+2025-12-04,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2645147,megawatthours
+2025-12-05,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2704220,megawatthours
+2025-12-05,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2674830,megawatthours
+2025-12-05,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2703855,megawatthours
+2025-12-06,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2465925,megawatthours
+2025-12-06,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2433029,megawatthours
+2025-12-06,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2732884,megawatthours
+2025-12-07,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2410215,megawatthours
+2025-12-07,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2348527,megawatthours
+2025-12-07,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2513568,megawatthours
+2025-12-08,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2671446,megawatthours
+2025-12-08,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2639804,megawatthours
+2025-12-08,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2508464,megawatthours
+2025-12-09,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2755234,megawatthours
+2025-12-09,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2683834,megawatthours
+2025-12-09,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2776147,megawatthours
+2025-12-10,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2590323,megawatthours
+2025-12-10,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2529629,megawatthours
+2025-12-10,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2842032,megawatthours
+2025-12-11,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2631795,megawatthours
+2025-12-11,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2598944,megawatthours
+2025-12-11,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2715598,megawatthours
+2025-12-11,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,41960,megawatthours
+2025-12-12,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2654460,megawatthours
+2025-12-12,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2621665,megawatthours
+2025-12-12,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2702338,megawatthours
+2025-12-12,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,35470,megawatthours
+2025-12-13,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2571237,megawatthours
+2025-12-13,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2477086,megawatthours
+2025-12-13,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2648976,megawatthours
+2025-12-13,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,19804,megawatthours
+2025-12-14,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2753620,megawatthours
+2025-12-14,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2695663,megawatthours
+2025-12-14,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2821905,megawatthours
+2025-12-14,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,24107,megawatthours
+2025-12-15,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,3038972,megawatthours
+2025-12-15,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2899403,megawatthours
+2025-12-15,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,3079896,megawatthours
+2025-12-15,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,21023,megawatthours
+2025-12-16,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2807541,megawatthours
+2025-12-16,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2797257,megawatthours
+2025-12-16,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2835481,megawatthours
+2025-12-16,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,26057,megawatthours
+2025-12-17,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2544299,megawatthours
+2025-12-17,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2593341,megawatthours
+2025-12-17,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2556359,megawatthours
+2025-12-17,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,30086,megawatthours
+2025-12-18,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2444548,megawatthours
+2025-12-18,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2412623,megawatthours
+2025-12-18,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2474753,megawatthours
+2025-12-18,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,21893,megawatthours
+2025-12-19,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2426245,megawatthours
+2025-12-19,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2402183,megawatthours
+2025-12-19,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2461231,megawatthours
+2025-12-19,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,29229,megawatthours
+2025-12-20,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2449173,megawatthours
+2025-12-20,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2379089,megawatthours
+2025-12-20,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2495979,megawatthours
+2025-12-20,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,15963,megawatthours
+2025-12-21,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2365041,megawatthours
+2025-12-21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2381195,megawatthours
+2025-12-21,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2495231,megawatthours
+2025-12-22,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2545592,megawatthours
+2025-12-22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2563195,megawatthours
+2025-12-22,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2440038,megawatthours
+2025-12-23,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2373132,megawatthours
+2025-12-23,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2437627,megawatthours
+2025-12-23,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2597163,megawatthours
+2025-12-24,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2148995,megawatthours
+2025-12-24,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2245098,megawatthours
+2025-12-24,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2457918,megawatthours
+2025-12-25,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2054680,megawatthours
+2025-12-25,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2163578,megawatthours
+2025-12-25,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2261230,megawatthours
+2025-12-26,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2293161,megawatthours
+2025-12-26,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2310445,megawatthours
+2025-12-26,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2125661,megawatthours
+2025-12-27,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2240161,megawatthours
+2025-12-27,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2219555,megawatthours
+2025-12-27,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2396576,megawatthours
+2025-12-28,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2226570,megawatthours
+2025-12-28,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2231125,megawatthours
+2025-12-28,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2328315,megawatthours
+2025-12-29,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2417605,megawatthours
+2025-12-29,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2431399,megawatthours
+2025-12-29,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2297029,megawatthours
+2025-12-30,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2706831,megawatthours
+2025-12-30,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2731502,megawatthours
+2025-12-30,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2505507,megawatthours
+2025-12-31,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2609092,megawatthours
+2025-12-31,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,2718077,megawatthours
+2025-12-31,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2764606,megawatthours
