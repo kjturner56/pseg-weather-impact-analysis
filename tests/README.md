@@ -1,11 +1,16 @@
 # Component Validation
 
-This folder contains validation notes for each pipeline component.
+This folder contains the validation artifacts for each component of the PJM Weather Impact Analysis pipeline.
 
-Each component is reviewed using the following criteria:
+Each component was reviewed using the following criteria:
 
 1. Syntax Validation
 2. Semantic Validation
 3. Software Engineering Review
 
-Validation artifacts will be added as each component is completed.
+Validation artifacts document the review, testing, and acceptance of each completed component.
+
+## Live Application
+
+Streamlit Dashboard:
+https://pseg-weather-impact-analysis.streamlit.app/
