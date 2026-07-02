@@ -321,3 +321,92 @@ The script used the non-interactive Agg backend, loaded the monthly, category, a
 ### Reflection
 
 This prompt produced a focused visualization component that stayed within scope. It did not include cleaning, merging, metrics calculations, dashboard logic, or final orchestration. The generated charts provide visual support for the analytical results produced by the metrics component.
+
+---
+
+
+## Prompt 6 – Final Pipeline Orchestration Component
+
+**Date:** July 2, 2026
+
+### Objective
+
+Generate code for the final pipeline orchestration component only. This component should run the existing project scripts in order.
+
+### Prompt
+
+Create a Python script called `final_project.py` for a project analyzing the relationship between PJM electricity demand and Newark weather conditions.
+
+This script should only orchestrate the pipeline by executing the existing component scripts in sequence. Do not include data cleaning logic, dataset merging logic, metrics calculations, visualization code, dashboard logic, or report-writing logic inside this script.
+
+Input:
+- `data/pjm_daily_2025.csv`
+- `data/newark_weather_2025.csv`
+
+Expected component scripts:
+- `scripts/clean_data.py`
+- `scripts/merge_data.py`
+- `scripts/metrics.py`
+- `scripts/visualize.py`
+
+Outputs produced by the full pipeline:
+- `data/pjm_daily_2025_clean.csv`
+- `data/newark_weather_2025_clean.csv`
+- `data/merged_data.csv`
+- `output/monthly_summary.csv`
+- `output/category_summary.csv`
+- `output/correlation_summary.csv`
+- `output/metrics_summary.csv`
+- `output/demand_vs_temperature.png`
+- `output/monthly_demand.png`
+- `output/monthly_temperature.png`
+- `output/forecast_error.png`
+- `output/category_comparison.png`
+
+Requirements:
+- Use Python standard library only.
+- Execute the component scripts in this order:
+  1. `scripts/clean_data.py`
+  2. `scripts/merge_data.py`
+  3. `scripts/metrics.py`
+  4. `scripts/visualize.py`
+- Use `subprocess.run()` to execute each script.
+- Stop the pipeline if any component fails.
+- Print clear progress messages before and after each step.
+- Validate that each expected component script exists before running.
+- Validate that all expected output files exist after the pipeline completes and report any missing outputs before exiting with a non-zero status code.
+- Report total pipeline completion status.
+- Include clear comments, meaningful function names, and basic error handling.
+- Measure and report the total execution time of the pipeline.
+
+Do not duplicate logic from the individual component scripts.
+
+Do not create charts directly.
+
+Do not create a dashboard.
+
+Only create `final_project.py`.
+
+### Outcome
+
+Generated `final_project.py` and successfully executed it from the project root using:
+
+`python final_project.py`
+
+The script executed all four pipeline components in sequence and verified all expected output files.
+
+### Notes
+
+The orchestrator validated the presence of all component scripts before execution, stopped on component failure, streamed console output from each script, validated 12 expected output files after completion, and reported total execution time.
+
+### Validation
+
+**Syntax:** Passed. The script executed without syntax errors.
+
+**Semantics:** Passed. The script correctly executed `clean_data.py`, `merge_data.py`, `metrics.py`, and `visualize.py` in order.
+
+**Software Engineering:** Passed. The script uses clear constants, modular validation and execution functions, `subprocess.run()`, standard library only, failure handling, output validation, and execution timing.
+
+### Reflection
+
+This prompt produced a focused orchestration component that stayed within scope. It did not duplicate cleaning, merging, metrics, visualization, dashboard, or report-writing logic. The final script successfully coordinated the full pipeline and confirmed that all expected project outputs were generated.
