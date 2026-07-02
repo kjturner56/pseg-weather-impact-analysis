@@ -108,7 +108,7 @@ Calculate analytical metrics used throughout the project.
 
 # visualize.py
 
-**Status:** Not Started
+**Status:** Complete
 
 ### Purpose
 
@@ -141,7 +141,7 @@ Generate visualizations that communicate the analytical results produced by the 
 
 # final_project.py
 
-**Status:** Not Started
+**Status:** Complete
 
 ### Purpose
 
