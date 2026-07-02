@@ -243,3 +243,81 @@ The script normalized column names to lowercase, which allowed it to work with t
 ### Reflection
 
 This prompt produced a focused metrics component that stayed within scope. It did not include cleaning, merging, visualization, dashboard logic, or final orchestration. The generated validation messages were useful for confirming row counts, null handling, category distribution, and output file creation.
+
+---
+
+
+## Prompt 5 – Visualization Component
+
+**Date:** July 2, 2026
+
+### Objective
+
+Generate code for the visualization component only. This component should create charts from the merged dataset and analytical summary files.
+
+### Prompt
+
+Create a Python script called `visualize.py` for a project analyzing the relationship between PJM electricity demand and Newark weather conditions.
+
+This script should only generate charts and save them as image files. Do not include data cleaning, dataset merging, metrics calculations, dashboard logic, or final orchestration.
+
+Input:
+- `data/merged_data.csv`
+- `output/monthly_summary.csv`
+- `output/category_summary.csv`
+- `output/correlation_summary.csv`
+- `output/metrics_summary.csv`
+
+Outputs:
+- `output/demand_vs_temperature.png`
+- `output/monthly_demand.png`
+- `output/monthly_temperature.png`
+- `output/forecast_error.png`
+- `output/category_comparison.png`
+
+Requirements:
+- Use pandas and matplotlib.pyplot.
+- Use the non-interactive Agg backend so the script can run without a graphical display.
+- Load the required CSV files.
+- Validate that required input files exist.
+- Create a scatter plot of demand vs average temperature using `metrics_summary.csv`.
+- Create a line chart of monthly average demand using `monthly_summary.csv`.
+- Create a line chart of monthly average temperature using `monthly_summary.csv`.
+- Create a line chart of daily forecast error using `metrics_summary.csv`.
+- Create a bar chart comparing average demand by temperature category using `category_summary.csv`.
+- Include clear chart titles, axis labels, and legends where appropriate.
+- Save each chart as a PNG file in the output folder.
+- Use readable figure sizes.
+- Use `plt.tight_layout()` before saving.
+- Close each figure after saving.
+- Include clear comments, meaningful variable names, modular functions, validation messages, and basic error handling.
+
+Do not calculate new metrics.
+
+Do not create a dashboard.
+
+Only create `visualize.py`.
+
+### Outcome
+
+Generated `scripts/visualize.py` and successfully executed it from the project root using:
+
+`python scripts/visualize.py`
+
+The script produced all five required visualization files.
+
+### Notes
+
+The script used the non-interactive Agg backend, loaded the monthly, category, and metrics summary outputs, and generated charts without recalculating metrics. It validated all required input files before execution.
+
+### Validation
+
+**Syntax:** Passed. The script executed without syntax errors.
+
+**Semantics:** Passed. The script generated the required demand-temperature scatter plot, monthly demand line chart, monthly temperature line chart, forecast error line chart, and category comparison bar chart.
+
+**Software Engineering:** Passed. The script uses modular chart functions, clear constants, file validation, readable figure sizes, `plt.tight_layout()`, and closes figures after saving.
+
+### Reflection
+
+This prompt produced a focused visualization component that stayed within scope. It did not include cleaning, merging, metrics calculations, dashboard logic, or final orchestration. The generated charts provide visual support for the analytical results produced by the metrics component.

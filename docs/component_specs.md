@@ -60,7 +60,7 @@ Merge the cleaned EIA and NOAA datasets.
 
 # metrics.py
 
-**Status:** In Progress
+**Status:** Complete
 
 ### Purpose
 
@@ -87,7 +87,7 @@ Calculate analytical metrics used throughout the project.
 - Classify temperature categories
 - Calculate category statistics
 - Calculate Temperature Stress
-- Calculate normalized demand
+- Calculate Demand per Degree of Temperature Stress
 - Save summary tables
 
 ### Temperature Categories
@@ -112,7 +112,7 @@ Calculate analytical metrics used throughout the project.
 
 ### Purpose
 
-Generate charts and figures that communicate the analytical results produced by the metrics component.
+Generate visualizations that communicate the analytical results produced by the metrics component.
 
 ### Input
 
@@ -149,8 +149,8 @@ Execute the complete data analysis pipeline from start to finish.
 
 ### Input
 
-- Raw EIA dataset
-- Raw NOAA dataset
+- data/pjm_daily_2025.csv
+- data/newark_weather_2025.csv
 
 ### Output
 
