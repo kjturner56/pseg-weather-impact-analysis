@@ -9,7 +9,8 @@ __pycache__/
 .vscode/
 
 # Generated Output
-output/
+# Keep output files for deployed Streamlit dashboard
+# output/
 
 # OS Files
 .DS_Store

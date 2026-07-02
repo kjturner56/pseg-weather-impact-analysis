@@ -1,0 +1,6 @@
+temp_category,day_count,avg_demand,avg_forecast_error,avg_forecast_error_pct
+Very Cold,36,2704877.14,36142.81,1.26
+Cold,101,2298670.1,20804.85,0.91
+Mild,84,1983682.21,26530.77,1.33
+Warm,106,2252303.99,33874.25,1.49
+Hot,38,2839481.21,69169.55,2.41

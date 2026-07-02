@@ -1,0 +1,4 @@
+temperature_field,pearson_correlation,sample_size
+tavg,-0.0002,365
+tmax,-0.0213,365
+tmin,0.0233,365
