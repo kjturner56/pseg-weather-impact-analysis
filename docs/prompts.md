@@ -157,3 +157,89 @@ The merge produced the expected 365 records with no unmatched dates between the 
 ### Reflection
 
 The generated implementation closely matched the project requirements and required only a review before execution. The component was validated against the pipeline specification and project datasets before being accepted. Final responsibility for verifying correctness remained with the project author.
+
+---
+
+## Prompt 4 – Metrics Component
+
+**Date:** July 1, 2026
+
+### Objective
+
+Generate code for the analytical metrics component only. This component should calculate summary metrics from the merged PJM electricity and Newark weather dataset.
+
+### Prompt
+
+Create a Python script called `metrics.py` for a project analyzing the relationship between PJM electricity demand and Newark weather conditions.
+
+This script should only calculate analytical metrics. Do not include data cleaning, dataset merging, visualization, dashboard logic, or final orchestration.
+
+Input:
+- `data/merged_data.csv`
+
+Expected columns include:
+- date
+- demand
+- forecast
+- TAVG
+- TMAX
+- TMIN
+
+Outputs:
+- `output/monthly_summary.csv`
+- `output/category_summary.csv`
+- `output/correlation_summary.csv`
+- `output/metrics_summary.csv`
+
+Requirements:
+- Use pandas.
+- Load the merged dataset.
+- Calculate daily forecast error as `demand - forecast`.
+- Calculate forecast error percentage.
+- Calculate monthly average electricity demand.
+- Calculate monthly average temperature.
+- Calculate Pearson correlations between demand and TAVG, TMAX, and TMIN.
+- Classify each day into temperature categories:
+  - Very Cold: TAVG < 32°F
+  - Cold: 32°F–49°F
+  - Mild: 50°F–64°F
+  - Warm: 65°F–79°F
+  - Hot: TAVG >= 80°F
+- Calculate category-level statistics:
+  - number of days
+  - average demand
+  - average forecast error
+  - average forecast error percentage
+- Calculate Temperature Stress as `abs(TAVG - 65)`.
+- Calculate Demand per Degree of Temperature Stress as demand / Temperature Stress, using missing or null values when Temperature Stress equals 0.
+- Handle zero temperature stress to avoid division by zero.
+- Save all summary tables as CSV files.
+- Include clear comments, meaningful variable names, modular functions, validation messages, and basic error handling.
+
+Do not generate charts.
+
+Only create `metrics.py`.
+
+### Outcome
+
+Generated `scripts/metrics.py` and successfully executed it from the project root using:
+
+`python scripts/metrics.py`
+
+The script produced all required analytical output files.
+
+### Notes
+
+The script normalized column names to lowercase, which allowed it to work with the merged dataset fields `tavg`, `tmax`, and `tmin`. One null forecast value was detected and allowed to produce null forecast error metrics. One day with `TAVG == 65°F` was handled by setting Demand per Degree of Temperature Stress to null to avoid division by zero.
+
+### Validation
+
+**Syntax:** Passed. The script executed without syntax errors.
+
+**Semantics:** Passed. The script calculated forecast error, forecast error percentage, monthly averages, temperature categories, correlations, temperature stress, and demand per stress degree.
+
+**Software Engineering:** Passed. The script uses modular functions, clear constants, validation messages, basic error handling, and separate output files.
+
+### Reflection
+
+This prompt produced a focused metrics component that stayed within scope. It did not include cleaning, merging, visualization, dashboard logic, or final orchestration. The generated validation messages were useful for confirming row counts, null handling, category distribution, and output file creation.
